@@ -1,7 +1,7 @@
 {
   "name": "json-mysql",
   "version": "1.0.0",
-  "description": "Han",
+  "description": "An npm package to enable mysql users to have the same JavaScript functionality of non-sql databases in the sense of basic CRUD.",
   "main": "./lib/index.js",
   "scripts": {
     "test": "mocha"
