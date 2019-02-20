@@ -1,0 +1,26 @@
+{
+  "name": "json-mysql",
+  "version": "1.0.0",
+  "description": "Han",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doc-Han/json-mysql.git"
+  },
+  "keywords": [
+    "mysql",
+    "non-sql",
+    "javascript",
+    "json",
+    "simple"
+  ],
+  "author": "Farhan Yahya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doc-Han/json-mysql/issues"
+  },
+  "homepage": "https://github.com/Doc-Han/json-mysql#readme"
+}
