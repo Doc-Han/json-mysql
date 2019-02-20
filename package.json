@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Doc-Han/json-mysql/issues"
   },
-  "homepage": "https://github.com/Doc-Han/json-mysql#readme"
+  "homepage": "https://github.com/Doc-Han/json-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
 }
